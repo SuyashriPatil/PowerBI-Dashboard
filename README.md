@@ -1,0 +1,1 @@
+This repository contains a simple and interactive Power BI dashboard built for sales analysis. It helps users visualize sales trends, analyze product and regional performance, and track key performance indicators (KPIs).
